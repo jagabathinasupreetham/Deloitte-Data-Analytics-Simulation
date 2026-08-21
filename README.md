@@ -5,7 +5,7 @@ Data analytics and visualization project completed via the Deloitte job simulati
 ---
 
 ## 📊 Dashboard Preview
-![Deloitte Dashboard](deliotte dashboard.png)
+(deliotte dashboard.png)
 
 ---
 
