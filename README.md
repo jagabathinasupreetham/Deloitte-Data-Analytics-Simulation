@@ -1,11 +1,6 @@
 # Deloitte Data Analytics Simulation
 
-Data analytics and visualization project completed via the Deloitte job simulation.
-
----
-
-## 📊 Dashboard Preview
-(deliotte dashboard.png)
+Data analytics and visualization project completed via the Deloitte job simulation
 
 ---
 
@@ -17,7 +12,7 @@ This repository contains the practical deliverables and analytical work complete
 ## 📁 Repository Contents
 * **`DELIOTTE JOB SIMULATION.twb`**: The core Tableau workbook housing the interactive dashboard.
 * **`Equality Table before.xlsx`**: The raw, unformatted dataset prior to data profiling.
-* **`Equality Table after.xlsx`**: The cleaned, structured dataset used to derive final business conclusions.
+* **`Equality Table after.xlsx`**: The cleaned, structured dataset used to derive final business conclusions did in Excel.
 * **`deliotte dashboard.png`**: Image export showing the final Tableau dashboard layout.
 * **`completion_certificate.pdf`**: Official certificate validating the successful completion of the program.
 
