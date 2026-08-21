@@ -21,7 +21,7 @@ This repository contains the practical deliverables and analytical work complete
 ## 🛠️ Key Tasks & Skills Demonstrated
 * **Forensic Data Analysis**: Evaluated forensic business data to uncover trends and structural patterns[cite: 2].
 * **Data Classification & Cleaning**: Utilized Excel classification logic to sort, filter, and profile raw records[cite: 2].
-* **Interactive Dashboarding**: Built a Tableau dashboard to clearly visualize gender pay equality metrics for senior stakeholders[cite: 2].
+* **Interactive Dashboarding**: Built a Tableau dashboard to clear visualization[cite: 2].
 
 ---
 ### Author
