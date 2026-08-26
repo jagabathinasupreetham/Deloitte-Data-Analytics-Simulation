@@ -5,7 +5,7 @@ Data analytics and visualization project completed via the Deloitte job simulati
 ---
 
 ## 🔍 Project Overview
-This repository contains the practical deliverables and analytical work completed as part of the **Deloitte Australia Data Analytics Job Simulation** via Forage[cite: 2]. The project centers on forensic technology, data cleaning, and developing interactive visual dashboards to interpret business data and evaluate gender pay equality metrics across employee segments[cite: 2].
+This repository contains the practical deliverables and analytical work completed as part of the **Deloitte Australia Data Analytics Job Simulation** via Forage. The project centers on forensic technology, data cleaning, and developing interactive visual dashboards to interpret business data and evaluate gender pay equality metrics across employee segments.
 
 ---
 
@@ -19,9 +19,9 @@ This repository contains the practical deliverables and analytical work complete
 ---
 
 ## 🛠️ Key Tasks & Skills Demonstrated
-* **Forensic Data Analysis**: Evaluated forensic business data to uncover trends and structural patterns[cite: 2].
-* **Data Classification & Cleaning**: Utilized Excel classification logic to sort, filter, and profile raw records[cite: 2].
-* **Interactive Dashboarding**: Built a Tableau dashboard to clear visualization[cite: 2].
+* **Forensic Data Analysis**: Evaluated forensic business data to uncover trends and structural patterns.
+* **Data Classification & Cleaning**: Utilized Excel classification logic to sort, filter, and profile raw records.
+* **Interactive Dashboarding**: Built a Tableau dashboard to clear visualization.
 
 ---
 ### Author
