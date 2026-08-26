@@ -25,5 +25,5 @@ This repository contains the practical deliverables and analytical work complete
 
 ---
 ### Author
-**Supreetham Jagabathina**[cite: 1]  
-[LinkedIn Profile](https://www.linkedin.com/in/supreetham-data-analyst) | [GitHub Repository](https://github.com/jagabathinasupreetham)[cite: 1, 2]
+**Supreetham Jagabathina** 
+[LinkedIn Profile](https://www.linkedin.com/in/supreetham-data-analyst) | [GitHub Repository](https://github.com/jagabathinasupreetham)
